@@ -3,3 +3,6 @@
   width: 200px;
   cursor: pointer;
 }
+.setColor {
+  background-color: red;
+}
