@@ -1,4 +1,5 @@
 $(function() {
+	
   $("#divBox").on('mouseover mouseleave', colored);
   
 	$("#divBox").on("click",function(){
